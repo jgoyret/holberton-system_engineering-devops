@@ -1,4 +1,5 @@
 #!/bin/bash
+read varm
 git add --all
-git commit -m "random menssage"
+git commit -m $varm
 git push
