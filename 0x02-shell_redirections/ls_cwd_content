@@ -1,0 +1,18 @@
+total 52
+189130348 drwxr-xr-x 6 0 0 140 Jan 31 05:12 ../
+ 75781437 -rwxr-xr-x 1 0 0  29 Jan 31 09:09 1-confused_smiley
+ 75779361 -rwxr-xr-x 1 0 0  32 Jan 31 09:09 0-hello_world
+ 75787578 -rwxr-xr-x 1 0 0  43 Jan 31 09:09 6-third_line
+ 75787573 -rwxr-xr-x 1 0 0  37 Jan 31 09:09 5-firstlines
+ 75787572 -rwxr-xr-x 1 0 0  36 Jan 31 09:09 4-lastlines
+ 75787553 -rwxr-xr-x 1 0 0  41 Jan 31 09:09 3-twofiles
+ 75781445 -rwxr-xr-x 1 0 0  29 Jan 31 09:09 2-hellofile
+ 75793168 -rwxr-xr-x 1 0 0  25 Jan 31 09:09 README.md
+ 75793177 -rwxr-xr-x 1 0 0  66 Jan 31 09:09 github_push
+ 75793176 -rwxr-xr-x 1 0 0  38 Jan 31 09:09 clean_emacs
+ 75781439 -rw-r--r-- 1 0 0  12 Jan 31 09:18 \*\'"Best School"\\*$\?\*\*\*\*\*:)
+ 75792090 -rwxr-xr-x 1 0 0 101 Jan 31 09:20 7-file
+ 75900043 -rwxrwxrwx 1 0 0   0 Jan 31 09:24 8-cwd_state~
+ 75900045 -rwxrwxrwx 1 0 0  44 Jan 31 09:25 8-cwd_state
+ 75793183 -rw-r--r-- 1 0 0   0 Jan 31 09:25 ls_cwd_content
+ 75779375 drwxr-xr-x 2 0 0 321 Jan 31 09:25 ./
