@@ -1,4 +1,6 @@
 #!/bin/bash
 git add --all
-git commit -m "random menssage"
+echo "ingrese commit: "
+read COM_
+git commit -m $COM_
 git push
